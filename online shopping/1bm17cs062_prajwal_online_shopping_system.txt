@@ -1,0 +1,47 @@
+Online Shopping System
+prajwal patil
+1BM19CS062
+Software Requirements Specifications
+Purpose: The Online Shopping System is a web Application which is 
+Intended to provide complete solutions for vendors as well as 
+customers through a single gateway using the internet. It will enable 
+vendors to setup online shops, customers to browse through the shop
+and purchase them online without having to visit the shop physically. 
+The administration module will enable a system administrator to
+approve and reject requests for new shops and maintain various lists of 
+shop categories.
+Scope: E-commerce is a term for any type of business, or commercial 
+transaction that involves the transfer of information across the 
+internet. It covers a range of different types of businesses from 
+consumer-based retail sites, through auction or music sites, to 
+business trading goods and services between corporations. It is 
+currently the most important aspect of the internet to emerge.
+Functional Requirements:
+ Minimum steps to make a purchase
+ Mobile-friendliness
+ Unique, recognizable design
+ Relevant, useful content
+ Shipping & payment systems integration
+ Live chat
+Non-functional Requirements:
+♦ Provide better performance than usual as the website is run from 
+a server and takes an initial load of internet to fetch.
+♦ Provide secure data transfer between server and customer 
+system.Online Shopping System
+PRAJWAL PATIL
+1BM17CS062
+♦ The server should provide sufficient data storage for 
+customer data.
+♦ The system should make the whole process reliable.
+♦ Providing safety from errors, damages, accidents 
+considerable or non-considerable.
+♦ The database should be properly maintained
+User Requirements:
+ Login/sign up page. Homepage containing productions 
+according to user interest.
+ Screen displaying information about products and user 
+searches.
+ On selecting a product, the new tab is opened. d. A user copy of 
+the invoice generated.
+ Order details and order status
+ Add products to car
